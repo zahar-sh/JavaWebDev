@@ -1,0 +1,763 @@
+2022-03-23 16:06:49 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{products=[], tack=by.epam.task4.trucktask.LoadTack@137ec5c6}
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{products=[], tack=by.epam.task4.trucktask.LoadTack@47d9733d}
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{products=[], tack=by.epam.task4.trucktask.LoadTack@294ac566}
+2022-03-23 16:06:49 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:06:49 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{products=[by.epam.task4.logistics.Product@4ff43915, by.epam.task4.logistics.Product@187bba03, by.epam.task4.logistics.Product@3e79130e, by.epam.task4.logistics.Product@4ebcdf1], tack=UnloadTack{servicePriority=1}}
+2022-03-23 16:06:49 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:06:49 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:06:49 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:10:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:10:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:10:32 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:10:32 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:10:32 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[by.epam.task4.logistics.Product@5fb2eaef, by.epam.task4.logistics.Product@11cbca9f, by.epam.task4.logistics.Product@4effb74e, by.epam.task4.logistics.Product@5fc688a8]}
+2022-03-23 16:10:32 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[by.epam.task4.logistics.Product@58bb5b6d, by.epam.task4.logistics.Product@6b4dd2f3, by.epam.task4.logistics.Product@a584fa]}
+2022-03-23 16:10:32 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[by.epam.task4.logistics.Product@4827c25f, by.epam.task4.logistics.Product@4ac58805, by.epam.task4.logistics.Product@4f9a11e4, by.epam.task4.logistics.Product@63b4deb9, by.epam.task4.logistics.Product@1577ddaa]}
+2022-03-23 16:10:32 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[by.epam.task4.logistics.Product@7394eaa1, by.epam.task4.logistics.Product@6c9ed006, by.epam.task4.logistics.Product@291a9a3a, by.epam.task4.logistics.Product@2ab883e]}
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:11:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:11:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:11:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:11:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:11:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:13:02 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:13:02 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:13:02 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:13:02 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:13:02 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:13:02 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:19:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:19:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:19:06 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:19:06 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:19:06 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:19:24 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:19:24 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:19:24 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:19:24 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:19:24 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:19:24 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:20:22 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:20:22 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:20:22 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:20:22 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:22 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:20:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:20:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:20:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:20:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:20:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:20:54 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:20:54 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:21:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:21:01 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:21:03 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:21:03 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:21:03 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:21:03 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:25:10 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:25:10 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:25:10 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:10 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:25:10 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:25:10 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:25:10 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:25:10 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:25:14 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:25:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:25:22 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:25:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:22 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:25:57 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:25:57 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:25:57 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:25:57 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:25:57 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:25:57 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:26:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:25:59 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:26:00 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:26:11 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:26:11 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:26:11 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:26:11 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:26:29 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:26:29 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:26:29 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:26:29 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:26:29 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:26:29 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:30:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:30:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:30:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:30:55 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:30:55 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:30:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:35:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:35:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:35:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:35:39 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:35:39 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:35:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:35:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:35:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:35:39 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:35:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:35:39 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:35:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:35:39 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:35:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:35:39 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:35:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:36:55 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:36:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:36:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:36:55 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:36:55 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:36:55 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:36:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 16:36:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[]}
+storage=[]
+2022-03-23 16:36:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:36:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:36:55 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}]}
+storage=[]
+2022-03-23 16:36:55 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:36:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:36:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:36:55 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:36:55 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:36:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:36:55 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:36:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[]
+2022-03-23 16:36:55 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:36:55 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:36:55 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:37:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:37:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:37:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:37:56 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:37:56 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:37:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:37:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 16:37:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[]}
+storage=[]
+2022-03-23 16:37:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:37:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:37:56 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:37:56 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[]
+2022-03-23 16:37:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:37:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:37:56 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:37:56 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:37:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:37:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:37:56 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:37:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[]
+2022-03-23 16:37:56 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:37:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:47:25 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:47:25 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:47:25 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:47:25 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:47:25 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:47:25 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:47:25 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[]}
+storage=[]
+2022-03-23 16:47:25 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 16:47:25 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:47:25 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:47:25 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:47:25 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 16:47:25 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:47:25 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[]
+2022-03-23 16:47:25 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:47:25 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:47:25 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:47:25 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:47:25 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:47:25 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[]
+2022-03-23 16:47:25 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:47:25 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:47:25 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:48:34 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:48:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:48:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:48:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:48:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:48:34 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:48:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[]}
+storage=[]
+2022-03-23 16:48:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 16:48:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:48:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:48:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 16:48:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[]
+2022-03-23 16:48:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:48:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:48:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:48:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:48:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:48:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:48:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:48:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[]
+2022-03-23 16:48:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:48:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:48:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:50:00 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:50:00 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:50:00 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:50:00 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:50:00 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:50:00 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:50:00 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+storage=[]
+2022-03-23 16:50:00 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 16:50:00 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:50:00 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:50:00 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+storage=[]
+2022-03-23 16:50:00 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 16:50:00 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:50:00 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:50:00 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:50:00 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:50:00 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:50:00 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:50:00 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:50:00 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:50:00 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:50:00 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+storage=[]
+2022-03-23 16:50:00 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:54:26 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:54:26 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:54:26 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:54:26 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:54:26 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:54:26 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:54:26 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:54:26 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:54:26 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:54:26 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:54:26 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:54:26 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:54:26 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 16:54:26 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:54:26 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:54:26 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 16:54:26 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 16:54:26 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:54:26 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 16:54:26 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 16:54:26 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:54:26 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 16:54:26 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 16:59:54 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 16:59:54 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 16:59:54 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 16:59:54 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:00:02 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:00:02 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:00:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 17:00:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:00:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:00:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 17:00:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 17:00:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:00:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:00:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:00:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:00:34 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 17:00:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:00:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 17:00:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 17:00:34 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 17:00:34 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:00:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:34 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:00:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:00:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:00:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:00:41 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:00:41 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:00:41 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:00:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:00:41 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:00:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:00:45 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:00:45 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:45 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:45 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 17:00:45 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:00:45 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:00:45 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:00:45 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:00:45 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:00:45 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 17:00:45 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:00:45 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 17:00:45 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 17:00:45 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:00:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:00:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:00:56 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:00:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:00:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:00:56 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:00:56 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:00:56 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:00:56 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:00:59 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:00:59 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:01:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:01:41 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:01:41 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+storage=[]
+2022-03-23 17:01:41 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:01:41 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:01:41 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+storage=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]
+2022-03-23 17:01:41 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 17:01:41 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:01:41 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:01:41 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:01:41 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:01:41 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:01:41 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 17:01:41 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 17:01:41 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 17:01:41 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - truck loaded
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+storage=[]
+truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:01:41 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - truck unloaded
+truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+storage=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]
+2022-03-23 17:01:41 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:01:41 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:06:06 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:06 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:06 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:06:06 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:06:06 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:06:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 17:06:06 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:06:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:06:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:06:06 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 17:06:06 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - start logistics center
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:06:39 [main] INFO  by.epam.task4.logistics.LogisticsCenter - add truck in queue, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=BREAD, count=3}, products=[]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=1}, products=[Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}, Product{type=BREAD}]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=CEREAL, count=2}, products=[]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=2}, products=[Product{type=CEREAL}, Product{type=CEREAL}, Product{type=CEREAL}]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=LoadTack{type=SAUSAGE, count=6}, products=[]}
+2022-03-23 17:06:39 [pool-3-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - begin truck service, truck=Truck{tack=UnloadTack{servicePriority=10}, products=[Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}, Product{type=SAUSAGE}]}
+2022-03-23 17:06:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:06:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:06:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:06:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:06:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-1
+2022-03-23 17:06:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:06:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:06:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-2
+2022-03-23 17:06:39 [pool-2-thread-2] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-2
+2022-03-23 17:06:39 [pool-2-thread-1] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-1
+2022-03-23 17:06:39 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-4
+2022-03-23 17:06:39 [pool-2-thread-4] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-4
+2022-03-23 17:06:39 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - take terminal, thread=pool-2-thread-3
+2022-03-23 17:06:39 [pool-2-thread-3] INFO  by.epam.task4.logistics.LogisticsCenter - release terminal, thread=pool-2-thread-3
